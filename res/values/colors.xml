@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="extra_lite_teal">#ffd3ebed</color>
+    <color name="lite_teal">#ff63bec7</color>
+    <color name="teal">#ff7dc5cd</color>
+
+</resources>

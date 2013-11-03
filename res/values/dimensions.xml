@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <dimen name="choice_width">60dp</dimen>
+	<dimen name="choice_text_size">50dp</dimen>
+</resources>

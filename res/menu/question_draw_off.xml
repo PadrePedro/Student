@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/draw_toggle"
+        android:icon="@drawable/draw_off"
+        android:showAsAction="always"/>
+
+</menu>
